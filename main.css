@@ -15,7 +15,7 @@
     width: 100%;
     background-color: #ffffff;
 }
-
+/*HEADER*/
 .l-header {
     margin-top: 15px;
     margin-right: 15px;
@@ -60,6 +60,12 @@
     border-radius: 2px;
 }
 
-.c-btn--as-link{
+.c-btn--as-link {
     pointer-events: none;
 }
+
+.c-nav__item--active:hover {
+    text-decoration: underline;
+}
+/*--------------------------------*/
+/*MAIN*/
